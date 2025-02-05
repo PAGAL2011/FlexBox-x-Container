@@ -1,0 +1,174 @@
+*{
+ margin: 0 auto;
+ padding: 0px 0px;
+
+}
+.sariq{
+    color: yellow;
+    font-size: 35px;
+    text-align: center;
+    
+}
+.boqrang{
+    background-color: rgb(250, 147, 109);
+}
+.oq{
+    color: #fff;
+    text-align: center;
+}
+.container{
+    max-width: 100%;
+    width: 75%;
+}
+.ota{
+    display: flex;
+    margin-top: -25px;
+    gap: 150px;
+    margin-left: 50px;
+}
+.box{
+    list-style: none;
+}
+.as{
+    width: 300px;
+    height: 250px;
+    background-color: black;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+.all{
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    
+    display: flex;
+    flex-direction:column-reverse ;
+    
+}
+.ak{
+    color: #fff;
+   
+}
+img{
+    height: 150px;
+   width: 300px;
+ 
+}
+.al{
+    width: 300px;
+    height: 250px;
+    background-color: black;
+    flex-wrap: wrap; 
+    margin-left: 420px;
+     margin-top: -250px;
+}
+.ama{
+    color: #fff;
+}
+.aa{
+    color: #fff;
+    text-align: center;
+    margin-top: -50px;
+
+    display: flex;
+    flex-direction:column-reverse ;
+}
+.imk{
+    height: 133px;
+   width: 300px;
+}
+.ag{
+    width: 300px;
+    height: 250px;
+    background-color: black;
+    flex-wrap: wrap; 
+    margin-left: 820px;
+     margin-top: -250px;
+}
+.amn{
+    color: #fff;
+
+}
+.ap{
+    color: #fff;
+    text-align: center;
+    margin-top: -50px;
+
+    display: flex;
+    flex-direction:column-reverse ;
+}
+.imj{
+    height: 133px;
+   width: 300px;
+}
+.ah{
+    width: 300px;
+    height: 250px;
+    background-color: black;
+    flex-wrap: wrap; 
+    margin-left: 50px;
+     margin-top: 90px;
+}
+.aw{
+    color: #fff;
+    text-align: center;
+    margin-top: -50px;
+
+    display: flex;
+    flex-direction:column-reverse ;
+}
+.imm{
+    height: 133px;
+    width: 300px;
+}
+.amn{
+  color: #fff;
+
+}
+.log{
+    margin-left: 55px;
+}
+.af{
+    width: 300px;
+    height: 250px;
+    background-color: black;
+    flex-wrap: wrap; 
+    margin-left: 420px;
+    margin-top: -250px;
+     
+}
+.xa{
+    color: #fff;
+}
+.lox{
+    height: 133px;
+    width: 300px; 
+}
+.an{
+    color: #fff;
+    text-align: center;
+    margin-top: -50px;
+
+    display: flex;
+    flex-direction:column-reverse ; 
+}
+.ar{
+    width: 300px;
+    height: 250px;
+    background-color: black;
+    flex-wrap: wrap; 
+    margin-left: 820px;
+    margin-top: -250px;
+}
+.h1{
+    color: #fff;
+    text-align: center;
+    margin-top: -50px;
+
+    display: flex;
+    flex-direction:column-reverse ; 
+}
+.ace{
+    color: #fff;
+    
+}
